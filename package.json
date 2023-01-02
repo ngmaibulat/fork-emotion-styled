@@ -1,6 +1,6 @@
 {
     "name": "@aibulat/styled",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "Fork of @emotion/styled v.11.10.5 to improve Developer Experience when using only ESM",
     "type": "module",
     "module": "index.js",

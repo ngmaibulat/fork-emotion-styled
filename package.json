@@ -1,0 +1,21 @@
+{
+    "name": "@aibulat/styled",
+    "version": "0.0.3",
+    "description": "Fork of @emotion/styled v.11.10.5 to improve Developer Experience when using only ESM",
+    "type": "module",
+    "module": "index.js",
+    "types": "types/index.d.ts",
+    "license": "MIT",
+    "dependencies": {
+        "@emotion/is-prop-valid": "^1.2.0",
+        "@emotion/serialize": "^1.1.1",
+        "@emotion/use-insertion-effect-with-fallbacks": "^1.0.0",
+        "@emotion/utils": "^1.2.0"
+    },
+    "devDependencies": {
+        "@emotion/react": "11.10.5",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "typescript": "^4.9"
+    }
+}
